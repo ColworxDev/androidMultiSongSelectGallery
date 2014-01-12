@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html>
   <head >
@@ -12,7 +8,7 @@
   <body >
   
   <h1>androidMultiSongSelectGallery</h1>
-=============================
+
 
 
 <div>
@@ -23,7 +19,7 @@
 <p>it uses media query to all audio type files from device .</p>
 </div> 
 
-    <div class="wrapper">
+
       
       
       
@@ -38,7 +34,7 @@
 <li>
 
 
-</div>
+
 
 
   </body>
