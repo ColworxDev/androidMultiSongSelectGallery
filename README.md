@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head >
    
@@ -27,10 +26,10 @@
 
 <ul>
 <li>
-<img src="device-2014-01-12-185647.png"/>
+<img src="/device-2014-01-12-185647.png"/>
 <li>
 <li>
-<img src="device-2014-01-12-185738.png"/>
+<img src="/device-2014-01-12-185738.png"/>
 <li>
 
 
